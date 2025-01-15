@@ -1,27 +1,31 @@
+Claro! Aqui está o texto pronto para você copiar:  
+
+---
+
 # 🎥 Movie Search Project
 
-Este é um projeto de pesquisa de filmes desenvolvido com [Next.js](https://nextjs.org/) e consumindo a API do [The Movie Database (TMDb)](https://www.themoviedb.org/). O objetivo do projeto é permitir que os usuários pesquisem filmes e vejam informações detalhadas, como notas e descrições.
+Este é um projeto de pesquisa de filmes desenvolvido com [Next.js](https://nextjs.org/) e utilizando a API do [The Movie Database (TMDb)](https://www.themoviedb.org/). O objetivo é permitir que os usuários pesquisem filmes e vejam informações detalhadas, como notas, sinopses e datas de lançamento.
 
 ## ✨ Funcionalidades
 
 - 🔍 Pesquisa de filmes por título.
-- 📝 Exibição de informações como:
-  - 🎬 Título do filme.
+- 📝 Exibição de informações detalhadas:
+  - 🎬 Título.
   - 📖 Sinopse.
   - ⭐ Nota (rating).
   - 🗓️ Data de lançamento.
-- 📱 Interface responsiva e amigável.
+- 📱 Interface responsiva e amigável para todos os dispositivos.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **⚡ Next.js**: Framework React para renderização do lado do servidor (SSR) e aplicações web modernas.
+- **⚡ Next.js**: Framework React para renderização no lado do servidor (SSR) e construção de aplicações web modernas.
 - **🎞️ API do TMDb**: Fonte de dados para informações sobre filmes.
-- **🎨 CSS/Styled Components/Tailwind (escolha uma)**: Para estilização da interface.
+- **🎨 Sass (CSS)**: Para estilização da interface.
 
 ## 📋 Requisitos
 
-- 📦 Node.js 18+.
-- 🔑 Chave de API do TMDb (vá em [TMDb](https://www.themoviedb.org/) e crie uma conta para obter sua chave de API).
+- 📦 Node.js
+- 🔑 Chave de API do TMDb (acesse [TMDb](https://www.themoviedb.org/) e crie uma conta para obter a sua chave).
 
 ## 🚀 Instalação e Execução
 
@@ -58,15 +62,16 @@ Este é um projeto de pesquisa de filmes desenvolvido com [Next.js](https://next
 
 ## 📂 Estrutura do Projeto
 
-- **📁 /pages**: Contém as páginas do Next.js.
+- **📁 /pages**: Páginas do Next.js.
 - **📁 /components**: Componentes reutilizáveis da interface.
-- **📁 /styles**: Arquivos de estilização (CSS, Styled Components ou Tailwind).
+- **📁 /styles**: Arquivos de estilização utilizando Sass.
 - **📁 /utils**: Funções utilitárias, como chamadas para a API do TMDb.
 
 ## 🌟 Melhorias Futuras
 
-- 🔧 Adição de filtros, como gênero e idioma.
+- 🔧 Adição de filtros (gênero, idioma, etc.).
 - 🌀 Integração com bibliotecas de animações (ex.: Framer Motion).
-- 🎥 Exibição de trailers dos filmes.
+- 🎥 Exibição de trailers.
 - ❤️ Suporte para criação de listas de favoritos.
 
+--- 
